@@ -1,0 +1,22 @@
+{
+  "cafeList": [
+    {
+      "latitude": -6.711802,
+      "longitude": 15.791567,
+      "city": "Seblak Unsri",
+      "desc": ""
+    },
+    {
+      "latitude": -4.734831,
+      "longitude": 17.62567,
+      "city": "Curos",
+      "desc": ""
+    },
+    {
+      "latitude": -7.644366,
+      "longitude":  7.409637,
+      "city": "Bakso Bakar",
+      "desc": ""
+    }
+  ]
+}
