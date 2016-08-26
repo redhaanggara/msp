@@ -1,0 +1,22 @@
+{
+  "distroList": [
+    {
+      "latitude": -6.711802,
+      "longitude": 5.791567,
+      "city": "Hugelicious",
+      "desc": ""
+    },
+    {
+      "latitude": -4.734831,
+      "longitude": 7.62567,
+      "city": "Depan Sma 1",
+      "desc": ""
+    },
+    {
+      "latitude": -7.644366,
+      "longitude":  7.429037,
+      "city": "Distro Maju Jaya",
+      "desc": ""
+    }
+  ]
+}
