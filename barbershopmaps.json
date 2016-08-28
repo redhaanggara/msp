@@ -1,20 +1,20 @@
 {
   "barbershopList": [
     {
-      "latitude": -2.711802,
-      "longitude": 115.791567,
+      "latitude": -2.9521300645091118,
+      "longitude": 104.7568837960921,
       "city": "Scicors",
       "desc": ""
     },
     {
-      "latitude": -2.988168027860616,
-      "longitude": 104.72977739178782,
+      "latitude": -2.987996599874604,
+      "longitude": 04.72980153166884,
       "city": "Barber Shop",
       "desc": ""
     },
     {
-      "latitude": -6.644338,
-      "longitude":  6.409637,
+      "latitude": -2.9831269624711125,
+      "longitude":  104.72859721982104,
       "city": "Raja Cukur",
       "desc": ""
     }
