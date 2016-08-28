@@ -4,19 +4,25 @@
       "latitude": -2.993842317141319,
       "longitude": 104.74584644836,
       "city": "Cafe Ceria",
-      "desc": ""
+      "desc": "Free wifi dengan konsep italiano menyediakan berbagai maca western",
+      "Contact": "Phone, 08xxxxxx. Email, ceria@yahoo.co.id. BBM, 2dxxx. Line, @hugel. instagram, cafeceria",
+      "image": "cafeceria.jpg"
     },
     {
       "latitude": -2.992808397043794,
       "longitude": 104.74445169967225,
       "city": "Cafe Muda-Mudi",
-      "desc": ""
+      "desc": "buka setiap hari dari jam 08.00-23.00",
+      "Contact": "Phone, 08xxxxxx. Email, Hudel@yahoo.co.id. BBM, 2dxxx. Line, @hugel. instagram, hugel",
+      "image": "cafemudamudi.jpg"
     },
     {
       "latitude": -2.978997702545023,
       "longitude":  104.74799221557191,
       "city": "Cafe RBN",
-      "desc": ""
+      "desc": "buka setiap hari dari jam 08.00-23.00 free wifi diajamin enjoy",
+      "Contact": "Phone, 08xxxxxx. Email, Hudel@yahoo.co.id. BBM, 2dxxx. Line, @RBN. instagram, RBN",
+      "image": "caferbn.jpg"
     }
   ]
 }
