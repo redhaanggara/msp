@@ -4,19 +4,25 @@
       "latitude": -2.986406642092534,
       "longitude": 104.73173802894166,
       "city": "Seblak Unsri",
-      "desc": ""
+      "desc": "Seblak samping unsri bukit enak dijamin",
+      "Contact": "Phone, 045xxx. Email, seblak@yahoo.co.id. BBM, 2dcxxx. Line, @seblakstore. instagram, seblak",
+      "image": "seblakunsri.jpg"
     },
     {
       "latitude": -2.987103069127728,
       "longitude": 104.73232275050691,
       "city": "Raja Cendol cs",
-      "desc": ""
+      "desc": "cendol enak yuk mampir",
+      "Contact": "Phone, 045xxx. Email, kcc@yahoo.co.id. BBM, 2dcxxx. Line, @cendoltore. instagram, kcc",
+      "image": "rajacendol.jpg"
     },
     {
       "latitude": -2.9879280667362993,
       "longitude":  104.73258024257234,
       "city": "Bakso Bakar",
-      "desc": ""
+      "desc": "bakso bakar khas malang",
+      "Contact": "Phone, 045xxx. Email, bakso@yahoo.co.id. BBM, 2dcxxx. Line, @ksccctore. instagram, kstcore",
+      "image": "baksobakar.jpg"
     }
   ]
 }
