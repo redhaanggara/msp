@@ -1,20 +1,20 @@
 {
   "distroList": [
     {
-      "latitude": -6.711802,
-      "longitude": 5.791567,
-      "city": "Hugelicious",
+      "latitude": -2.9911316229985507,
+      "longitude": 104.74527916115335,
+      "city": "Hugel",
       "desc": ""
     },
     {
       "latitude": -2.988157313612279,
       "longitude": 104.72977202736968,
-      "city": "Depan Sma 1",
+      "city": "King Store",
       "desc": ""
     },
     {
-      "latitude": -7.644366,
-      "longitude":  7.429037,
+      "latitude": -2.9867361057065356,
+      "longitude":  104.73128875893167,
       "city": "Distro Maju Jaya",
       "desc": ""
     }
