@@ -4,19 +4,25 @@
       "latitude": -2.9521300645091118,
       "longitude": 104.7568837960921,
       "city": "Scicors",
-      "desc": ""
+      "desc": "Monggo bro mampir ke barbershop true gentlemen come here",
+      "Contact": "Phone, 045xxx. Email, scors@yahoo.co.id. BBM, 2dcxxx. Line, @barbestore. instagram, scisors",
+      "image": "scisors.jpg"
     },
     {
       "latitude": -2.987996599874604,
       "longitude": 04.72980153166884,
-      "city": "Barber Shop",
-      "desc": ""
+      "city": "Barber Store",
+      "desc": "barbershop keren",
+      "Contact": "Phone, 045xxx. Email, kingstore@yahoo.co.id. BBM, 2dcxxx. Line, @kingstore. instagram, kstore",
+      "image": "barberstore.jpg"
     },
     {
       "latitude": -2.9831269624711125,
       "longitude":  104.72859721982104,
       "city": "Raja Cukur",
-      "desc": ""
+      "desc": "raja cukur sebelah unsri",
+      "Contact": "Phone, 045xxx. Email, kingstore@yahoo.co.id. BBM, 2dcxxx. Line, @kingstore. instagram, kstore",
+      "image": "rajacukur.jpg"
     }
   ]
 }
