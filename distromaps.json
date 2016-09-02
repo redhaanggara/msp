@@ -23,6 +23,78 @@
       "desc": "Kami menjual product unggulan",
       "Contact": "Phone, 08xxxxxx. Email, uil@yahoo.co.id. BBM, 2pxxx. Line, @huppgel. instagram, uigel",
       "image": "distromajujaya.jpg"
+    },
+    {
+      "latitude": -2.986406642092534,
+      "longitude": 104.73173802894166,
+      "city": "Seblak Unsri",
+      "desc": "Seblak samping unsri bukit enak dijamin",
+      "Contact": "Phone, 045xxx. Email, seblak@yahoo.co.id. BBM, 2dcxxx. Line, @seblakstore. instagram, seblak",
+      "image": "seblakunsri.jpg"
+    },
+    {
+      "latitude": -2.987103069127728,
+      "longitude": 104.73232275050691,
+      "city": "Raja Cendol cs",
+      "desc": "cendol enak yuk mampir",
+      "Contact": "Phone, 045xxx. Email, kcc@yahoo.co.id. BBM, 2dcxxx. Line, @cendoltore. instagram, kcc",
+      "image": "rajacendol.jpg"
+    },
+    {
+      "latitude": -2.9879280667362993,
+      "longitude":  104.73258024257234,
+      "city": "Bakso Bakar",
+      "desc": "bakso bakar khas malang",
+      "Contact": "Phone, 045xxx. Email, bakso@yahoo.co.id. BBM, 2dcxxx. Line, @ksccctore. instagram, kstcore",
+      "image": "baksobakar.jpg"
+   },
+   {
+      "latitude": -2.993842317141319,
+      "longitude": 104.74584644836,
+      "city": "Cafe Ceria",
+      "desc": "Free wifi dengan konsep italiano menyediakan berbagai maca western",
+      "Contact": "Phone, 08xxxxxx. Email, ceria@yahoo.co.id. BBM, 2dxxx. Line, @hugel. instagram, cafeceria",
+      "image": "cafeceria.jpg"
+    },
+    {
+      "latitude": -2.992808397043794,
+      "longitude": 104.74445169967225,
+      "city": "Cafe Muda-Mudi",
+      "desc": "buka setiap hari dari jam 08.00-23.00",
+      "Contact": "Phone, 08xxxxxx. Email, Hudel@yahoo.co.id. BBM, 2dxxx. Line, @hugel. instagram, hugel",
+      "image": "cafemudamudi.jpg"
+    },
+    {
+      "latitude": -2.978997702545023,
+      "longitude":  104.74799221557191,
+      "city": "Cafe RBN",
+      "desc": "buka setiap hari dari jam 08.00-23.00 free wifi diajamin enjoy",
+      "Contact": "Phone, 08xxxxxx. Email, Hudel@yahoo.co.id. BBM, 2dxxx. Line, @RBN. instagram, RBN",
+      "image": "caferbn.jpg"
+   },
+   {
+      "latitude": -2.9521300645091118,
+      "longitude": 104.7568837960921,
+      "city": "Scicors",
+      "desc": "Monggo bro mampir ke barbershop true gentlemen come here",
+      "Contact": "Phone, 045xxx. Email, scors@yahoo.co.id. BBM, 2dcxxx. Line, @barbestore. instagram, scisors",
+      "image": "scisors.jpg"
+    },
+    {
+      "latitude": -2.987996599874604,
+      "longitude": 104.72980153166884,
+      "city": "Barber Store",
+      "desc": "barbershop keren",
+      "Contact": "Phone, 045xxx. Email, kingstore@yahoo.co.id. BBM, 2dcxxx. Line, @kingstore. instagram, kstore",
+      "image": "barberstore.jpg"
+    },
+    {
+      "latitude": -2.9831269624711125,
+      "longitude":  104.72859721982104,
+      "city": "Raja Cukur",
+      "desc": "raja cukur sebelah unsri",
+      "Contact": "Phone, 045xxx. Email, kingstore@yahoo.co.id. BBM, 2dcxxx. Line, @kingstore. instagram, kstore",
+      "image": "rajacukur.jpg"
     }
   ]
 }
